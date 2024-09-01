@@ -1,4 +1,4 @@
-# Events
+# events
 
 ### [Upcoming Event]
 
